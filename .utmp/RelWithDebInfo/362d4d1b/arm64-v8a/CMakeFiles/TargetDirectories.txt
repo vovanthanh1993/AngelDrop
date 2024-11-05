@@ -1,0 +1,8 @@
+D:/FoodCatching/AngelDrop/.utmp/RelWithDebInfo/362d4d1b/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/FoodCatching/AngelDrop/.utmp/RelWithDebInfo/362d4d1b/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/FoodCatching/AngelDrop/.utmp/RelWithDebInfo/362d4d1b/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/FoodCatching/AngelDrop/.utmp/RelWithDebInfo/362d4d1b/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/FoodCatching/AngelDrop/.utmp/RelWithDebInfo/362d4d1b/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/FoodCatching/AngelDrop/.utmp/RelWithDebInfo/362d4d1b/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/FoodCatching/AngelDrop/.utmp/RelWithDebInfo/362d4d1b/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/FoodCatching/AngelDrop/.utmp/RelWithDebInfo/362d4d1b/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

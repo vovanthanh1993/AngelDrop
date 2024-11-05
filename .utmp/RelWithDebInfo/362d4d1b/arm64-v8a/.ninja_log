@@ -1,0 +1,12 @@
+# ninja log v5
+35	220	7525014094423600	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	42a03e6346ffcf3a
+221	322	7525014095469576	D:/FoodCatching/AngelDrop/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/362d4d1b/obj/arm64-v8a/libswappywrapper.so	98204cda9a9c987
+21	754	7525014099722512	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e31d6f8b7cbe4fed
+5	780	7525014100019747	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a464e52e9fa609f2
+25	781	7525014099989565	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	bb0186fc9058f92e
+12	835	7525014100557786	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	689eb06c63887d13
+30	842	7525014100623947	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8181e976a27ec42b
+8	900	7525014101209043	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e408b9f56fd8aab6
+17	1004	7525014102261005	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	3951c5bee4443700
+1	1098	7525014103174364	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	65265fe191012065
+1098	1162	7525014103883630	D:/FoodCatching/AngelDrop/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/362d4d1b/obj/arm64-v8a/libgame.so	6181e4036f920ccd

@@ -1,0 +1,23 @@
+# ninja log v5
+76	440	7516571089610748	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6690a23603e8e29
+442	635	7516571091554908	D:/FoodCatching/FoodCatching/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4c2xw1a6/obj/arm64-v8a/libswappywrapper.so	a3981552155117b1
+39	1526	7516571100348656	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d3da9b6fe5a48ba2
+32	1580	7516571100937216	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6b6cc8aa43c322b4
+66	1605	7516571101183410	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c8a73addc2e6943f
+15	1617	7516571101267526	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	dc7d1ff7b473e8b
+57	1718	7516571102309826	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a727adc85dcbb39f
+24	1791	7516571103032317	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8a9dac60096d3d3a
+48	2060	7516571105755124	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9605f5354bfd133a
+1	2197	7516571107102571	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	600d26dd61f18251
+2197	2329	7516571108543033	D:/FoodCatching/FoodCatching/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4c2xw1a6/obj/arm64-v8a/libgame.so	ce155fc3f83566f0
+51	652	7524101191189733	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6690a23603e8e29
+652	966	7524101194371859	D:/FoodCatching/FoodCatching/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4c2xw1a6/obj/arm64-v8a/libswappywrapper.so	a3981552155117b1
+35	2508	7524101209687969	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d3da9b6fe5a48ba2
+22	2510	7524101209743184	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	dc7d1ff7b473e8b
+40	2516	7524101209813978	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c8a73addc2e6943f
+26	2567	7524101210303631	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6b6cc8aa43c322b4
+44	2567	7524101210270843	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a727adc85dcbb39f
+8	2618	7524101210807874	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8a9dac60096d3d3a
+31	2811	7524101212563875	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9605f5354bfd133a
+16	2928	7524101213903488	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	600d26dd61f18251
+2928	3134	7524101216019069	D:/FoodCatching/FoodCatching/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4c2xw1a6/obj/arm64-v8a/libgame.so	ce155fc3f83566f0

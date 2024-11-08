@@ -10,7 +10,7 @@ public class Girl : MonoBehaviour
             Destroy(gameObject);
             AudioController.Ins.PlaySound(AudioController.Ins.gameover);
         }
-        if (collision.CompareTag("Pot"))
+        if (collision.CompareTag("Player"))
         {
             GameController.Ins.UpdateScore(1);
             Destroy(gameObject);

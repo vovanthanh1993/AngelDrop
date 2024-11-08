@@ -8,7 +8,7 @@ public class Bo : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        if (collision.CompareTag("Pot"))
+        if (collision.CompareTag("Player"))
         {
             
             int s = Random.Range(0, 2);

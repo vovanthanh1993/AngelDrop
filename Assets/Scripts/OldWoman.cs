@@ -8,7 +8,7 @@ public class OldWoman : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        if (collision.CompareTag("Pot"))
+        if (collision.CompareTag("Player"))
         {
             AudioController.Ins.PlaySound(AudioController.Ins.oldwoman);
             GameController.Ins.UpdateScore(-1);

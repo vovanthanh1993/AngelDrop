@@ -28,7 +28,7 @@ public class AudioController : Singleton<AudioController>
     public string rrr12221rr;
 	public string texxst;
 	public string te222st2;
-	public string tes2ư1221112t2;
+	public string tes2ư1oki;
 
     /// <summary>
     /// Play Sound Effect

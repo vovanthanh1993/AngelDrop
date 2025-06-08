@@ -26,8 +26,9 @@ public class AudioController : Singleton<AudioController>
     public AudioClip oldwoman;
     public AudioClip[] backgroundMusics;
     public string rrr12221rr;
-	public string tes2t;
+	public string texxst;
 	public string test2;
+	public string tes2222t2;
 
     /// <summary>
     /// Play Sound Effect

@@ -27,7 +27,7 @@ public class AudioController : Singleton<AudioController>
     public AudioClip[] backgroundMusics;
     public string rrr12221rr;
 	public string texxst;
-	public string test2;
+	public string te222st2;
 	public string tes2ư222t2;
 
     /// <summary>
